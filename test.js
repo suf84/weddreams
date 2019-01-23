@@ -4,4 +4,4 @@ console.log("This is my first git thing");
 
 console.log("What's happening? Seriously");
 
-console.log("Let's try this CDN thing");
+console.log("Let's try this cdn thing");
