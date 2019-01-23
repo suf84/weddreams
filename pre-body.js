@@ -13,4 +13,4 @@ window.onload = function() {
   }
 }
 
-console.log("ran from jsdelivr");
+console.log("ran from jsdelivr CDN");
