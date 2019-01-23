@@ -2,4 +2,4 @@
 
 console.log("This is my first git thing");
 
-console.log("What's happening?")
+console.log("What's happening? Seriously")
